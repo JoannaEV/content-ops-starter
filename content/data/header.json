@@ -64,7 +64,19 @@
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Link",
+            "label": "LinkedIn",
+            "altText": "LinkedIn",
+            "url": "/",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-centered-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
