@@ -11,7 +11,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/icon3.svg"
     },
     "primaryLinks": [
         {
